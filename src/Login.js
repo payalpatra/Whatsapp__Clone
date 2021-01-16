@@ -23,7 +23,7 @@ function Login() {
     <div className="login">
       <div className="login__container">
         <img
-          src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Logo-700x394.png"
+          src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png"
           alt="login__logo"
         />
         <div className="login__text">
